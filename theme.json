@@ -1,0 +1,13 @@
+{
+  "variant": "professional",
+  "appearance": "system",
+  "radius": 0.5,
+  "primary": "#2563EB",
+  "darkPrimary": "#3B82F6",
+  "lightBackground": "#FFFFFF",
+  "darkBackground": "#111827",
+  "lightText": "#1F2937",
+  "darkText": "#F3F4F6",
+  "lightAccent": "#3B82F6",
+  "darkAccent": "#60A5FA"
+}
